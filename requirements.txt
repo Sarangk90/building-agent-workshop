@@ -1,0 +1,23 @@
+# Core dependencies for building agents from scratch
+openai>=1.0.0
+python-dotenv>=1.0.0
+httpx>=0.24.0
+
+# LangGraph and LangChain dependencies  
+langgraph>=0.1.0
+langchain-core>=0.2.0
+langchain-openai>=0.1.0
+langchain-community>=0.2.0
+
+# Search tool dependency
+tavily-python>=0.3.0
+
+# Jupyter and visualization
+jupyter>=1.0.0
+ipykernel>=6.0.0
+matplotlib>=3.5.0
+graphviz>=0.20.0
+
+# Development and utility packages
+regex>=2023.0.0
+requests>=2.28.0
